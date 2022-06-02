@@ -72,3 +72,15 @@
 .footer {
     margin-top: 100px;
 }
+
+
+/**************************
+レスポンシブ
+**************************/
+
+@media (max-width: 800px) {
+    .item-list {
+        margin-top: 45px;
+        row-gap: 40px;
+    }
+}
