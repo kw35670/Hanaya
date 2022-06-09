@@ -1,2 +1,2 @@
-# hanaya
+# Hanaya
 ゼミナールで作ったWebサイトです。
